@@ -4,15 +4,15 @@
 
 <p align="center"><a href="README.md">简体中文</a> · <b>English</b></p>
 
-# Tiantian API · Chinese LLM APIs at 80% OFF
+# Tiantian API · Chinese LLM APIs for Only 20% of Official Prices
 
 **DeepSeek API · GLM API · Kimi API · MiniMax API · Hunyuan API — every model billed at 20% of the official price**
 
-<p align="center"><a href="https://apitiantian.com/en/pricing"><img src="assets/pricing-en.svg" alt="Tiantian API pricing: DeepSeek, GLM, Kimi, MiniMax, Hunyuan at 80% off official prices" width="100%" /></a></p>
+<p align="center"><a href="https://apitiantian.com/en/pricing"><img src="assets/pricing-en.svg" alt="Tiantian API pricing: DeepSeek, GLM, Kimi, MiniMax, Hunyuan for only 20% of official prices" width="100%" /></a></p>
 
 One API key for DeepSeek, GLM, Kimi, MiniMax and Hunyuan, through **OpenAI Chat Completions**, **OpenAI Responses** and **Anthropic Messages** compatible endpoints — **Claude Code, Codex, CC Switch, OpenCode** and the OpenAI SDK work out of the box. Built for AI coding, agents and app development.
 
-- 💰 **80% off official prices**: promo group multiplier 0.2 on every model — DeepSeek V4.1 Flash input just **$0.06 / 1M tokens**
+- 💰 **Pay only 20% of official prices**: promo group multiplier 0.2 on every model — DeepSeek V4.1 Flash input just **$0.06 / 1M tokens**
 - ⚡ **Stable and fast**: independent monitoring by [HVOY AI relay ranking](https://www.hvoyai.com/sites/apitiantiancom/) (2026-10-12) shows **100%** uptime and **3240 ms** average latency, user rating 5/5
 - 🔑 **One key for every model**: keep the same key and change `model` to switch between DeepSeek / GLM / Kimi / MiniMax / Hunyuan
 - 🛠 **Made for AI coding**: one-click import into Claude Code and Codex via CC Switch; streaming and tool calling supported
@@ -117,7 +117,7 @@ curl https://apitiantian.com/v1/messages \
 
 ## FAQ
 
-**How does 80% off work?** Our price = official reference price × group multiplier 0.2. Prices on the pricing page already include the multiplier. Input, output and cache reads are billed separately; the console usage log is the billing record.
+**How is the 20% price calculated?** Our price = official reference price × group multiplier 0.2. Prices on the pricing page already include the multiplier. Input, output and cache reads are billed separately; the console usage log is the billing record.
 
 **401 / 404 / 429?** 401: check the key is complete and in the group that matches the protocol. 404: check for a duplicated `/v1` and that the model ID is in the catalog. 429: lower concurrency and retry with backoff.
 

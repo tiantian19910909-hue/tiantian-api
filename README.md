@@ -127,7 +127,7 @@ curl https://apitiantian.com/v1/messages \
 
 ## English
 
-Tiantian API: Chinese LLM APIs — DeepSeek, GLM, Kimi, MiniMax and Hunyuan — at **80% off official prices**, with one key and OpenAI / Anthropic compatible endpoints for Claude Code, Codex and CC Switch. Full English README: [README.en.md](README.en.md).
+Tiantian API: Chinese LLM APIs — DeepSeek, GLM, Kimi, MiniMax and Hunyuan — at **only 20% of official prices**, with one key and OpenAI / Anthropic compatible endpoints for Claude Code, Codex and CC Switch. Full English README: [README.en.md](README.en.md).
 
 ---
 
