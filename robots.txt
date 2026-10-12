@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tiantian19910909-hue.github.io/tiantian-api/sitemap.xml
